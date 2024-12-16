@@ -1,5 +1,5 @@
 {
-    "name": "norman-huth/nova-assets-changer",
+    "name": "uptime-it/nova-assets-changer",
     "description": "Change Nova resources",
     "homepage": "https://github.com/Muetze42/nova-assets-changer",
     "support": {
@@ -17,7 +17,7 @@
     "keywords": [
         "nova",
         "laravel",
-        "nova-4",
+        "nova-5",
         "laravel-nova"
     ],
     "autoload": {
@@ -26,7 +26,7 @@
         }
     },
     "require": {
-        "laravel/nova": "^4.27.0"
+        "laravel/nova": "^5.0.0"
     },
     "extra": {
         "laravel": {
